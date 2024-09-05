@@ -1,0 +1,7 @@
+setup.py
+modulos/__init__.py
+modulos/modulos1.py
+paquetes_distribuibles.egg-info/PKG-INFO
+paquetes_distribuibles.egg-info/SOURCES.txt
+paquetes_distribuibles.egg-info/dependency_links.txt
+paquetes_distribuibles.egg-info/top_level.txt
