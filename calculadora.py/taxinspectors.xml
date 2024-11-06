@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Taxinspectors>
+     <Taxinspector>
+          <id>insp01</id>
+          <firstname>Rafa</firstname>
+          <lastname>Tequitotodo</lastname>
+          <birthday>05/05/1976</birthday>
+          <commission percentage="10.0">4435.67</commission>
+          <cheatedtaxpayers>125</cheatedtaxpayers>
+     </Taxinspector>
+     <Taxinspector>
+          <id>insp02</id>
+          <firstname>Pepe</firstname>
+          <lastname>Pirata</lastname>
+          <birthday>19/01/1970</birthday>
+          <commission percentage="15.7">7899.0</commission>
+          <cheatedtaxpayers>250</cheatedtaxpayers>
+     </Taxinspector>
+     <Taxinspector>
+          <id>insp03</id>
+          <firstname>Paco</firstname>
+          <lastname>Montoro</lastname>
+          <birthday>04/07/1965</birthday>
+          <commission percentage="18.0">12432.21</commission>
+          <cheatedtaxpayers>335</cheatedtaxpayers>
+     </Taxinspector>
+</Taxinspectors>
