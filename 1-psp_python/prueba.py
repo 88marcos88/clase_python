@@ -1,3 +1,4 @@
-import ejercicio5
+import random
 
-ejercicio5.dividir(2, 4)
+compra = random.randint(1, 2)
+print(compra)
