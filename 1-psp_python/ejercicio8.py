@@ -8,7 +8,6 @@ Cuando ejecute Thread debe hacer lo que antes hacia la función votación.
 
 import random
 import threading
-import time
 
 candidato_a = 0
 candidato_b = 0
